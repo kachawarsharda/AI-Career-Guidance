@@ -1,6 +1,8 @@
 
-__pycache__/
+.idea/
+.venv/
 venv/
+__pycache__/
 .env
 uploads/*
 *.pyc
